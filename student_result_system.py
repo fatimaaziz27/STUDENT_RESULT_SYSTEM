@@ -1,14 +1,12 @@
-A Student Result System is a good beginner Python project to practice functions, dictionaries, file handling, and basic CRUD operations.
-
-Features:
-Add student records
-Store marks of subjects
-Calculate total marks
-Calculate percentage
-Assign grades
-Display student results
-Search student results
-Python Code:
+# Features:
+# Add student records
+# Store marks of subjects
+# Calculate total marks
+# Calculate percentage
+# Assign grades
+# Display student results
+# Search student results
+# Python Code:
 # Student Result System
 
 students = {}
