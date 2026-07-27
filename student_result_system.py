@@ -106,36 +106,37 @@ while True:
 
     else:
         print("Invalid choice")
-Example Output:
-===== Student Result System =====
-1. Add Student
-2. Display Results
-3. Search Student
-4. Exit
 
-Enter choice: 1
+# Example Output:
+# ===== Student Result System =====
+# 1. Add Student
+# 2. Display Results
+# 3. Search Student
+# 4. Exit
 
-Enter Roll Number: 101
-Enter Student Name: Fatima
-Enter Math marks: 90
-Enter Physics marks: 85
-Enter Computer marks: 95
+# Enter choice: 1
 
-Student added successfully!
-Concepts Practiced:
+# Enter Roll Number: 101
+# Enter Student Name: Fatima
+# Enter Math marks: 90
+# Enter Physics marks: 85
+# Enter Computer marks: 95
 
-✅ Variables
-✅ Input/Output
-✅ Functions
-✅ Dictionaries
-✅ Loops
-✅ Conditional statements
-✅ CRUD operations
+# Student added successfully!
+# Concepts Practiced:
 
-Next improvements you can add:
+# ✅ Variables
+# ✅ Input/Output
+# ✅ Functions
+# ✅ Dictionaries
+# ✅ Loops
+# ✅ Conditional statements
+# ✅ CRUD operations
 
-Save records permanently using a .txt or .json file
-Add GUI using Tkinter
-Add login system for teachers/admin
-Generate result cards as PDF
-Use SQLite database
+# Next improvements you can add:
+
+# Save records permanently using a .txt or .json file
+# Add GUI using Tkinter
+# Add login system for teachers/admin
+# Generate result cards as PDF
+# Use SQLite database
