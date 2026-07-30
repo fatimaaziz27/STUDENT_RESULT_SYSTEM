@@ -1,4 +1,4 @@
-student result system
+# Student Result System
 # Features:
 # Add student records
 # Store marks of subjects
