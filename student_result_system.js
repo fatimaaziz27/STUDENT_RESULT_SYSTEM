@@ -1,6 +1,4 @@
 // Student Result System
-// Student Result System
-
 const prompt = require("prompt-sync")();
 
 const students = {};
