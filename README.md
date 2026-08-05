@@ -25,3 +25,7 @@ This project helps in organizing student academic information and provides an ea
 ---
 
 ## 📂 Project Structure
+STUDENT_RESULT_SYSTEM/
+│
+├── student_result_system.py
+└── README.md
